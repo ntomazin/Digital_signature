@@ -1,0 +1,6 @@
+{
+    "Description": "Secret Key",
+    "Method": "AES128",
+    "Key length": 128,
+    "Key": "uzv2jyM1d7gF+mraHZKZEw=="
+}

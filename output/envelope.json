@@ -1,0 +1,13 @@
+{
+    "Description": "Envelope",
+    "Input": "labos",
+    "Output": "output/envelope.json",
+    "Symmetric method": "AES128",
+    "Asymmetric method": "RSA",
+    "Crypt mode": "CFB",
+    "Initialization vector": "w+5xeIc0uAzZj2nFLAOc1Q==",
+    "Sym key length": 128,
+    "Asym key length": 2048,
+    "Envelope data": "jDtTKwI=",
+    "Envelope key": "hcR7r7vBR+2le1yQhTKmqqSw7V7Yq/lBs+j04K6OqFVUCIPu0kXzOk4Z55w2VpCu8avSJVFfi1JQdCiQxlCT5aMtXjdP17UBFDnkX+wDCFNqCuWNw8X/5xR3ojBaQeaT/6mNSIbSjUS8F58RJqikq8AoKiijq2hOVfDg3rvk6K0idKgxdyLJT+nJQTEULsN6Xl4LS5mIVWQk4sIch7KXZWbr6uzO3o7VX8C8xUoZwHidOknkN7iZwVxkB3omWGkjlAn08x3GRlyIMeQTk6g9Ks8Mm18jmXtct/btp5vE3dA8dceVh68AXsqb1dQye5SCoTbiC+ROyRHvfQmwHT/yLQ=="
+}

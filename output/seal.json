@@ -1,0 +1,15 @@
+{
+    "Description": "Seal",
+    "Input": "labos",
+    "Output": "output/seal.json",
+    "Symmetric method": "AES128",
+    "Asymmetric method": "RSA",
+    "Crypt mode": "CFB",
+    "Initialization vector": "gJyA0nwXZy1piBt8rDyEPQ==",
+    "Sym key length": 128,
+    "Asym key length": 2048,
+    "Envelope data": "OanMYK0=",
+    "Envelope key": "bY4OBfe3WQJjIJGi/WozuseyiCL+Er1zbcI8yuclwDnZxSJcyu5oOe46fXuwyFC2BORstRGHWm8V43d4sSVzEilSOtSdH9PmJ7dIMZhw/n2POnc/cOzKxWNLddhCMR2S6F42Smi5t681fTBJwT2RbYsa5Vkwa97fTirQhL+szDimIDApfB+n7ebym49BK5m0qu6iw5QmDTxvoyugHUG7/fEhMiJMnb41DC0QFfAygdgHrWoBcLritJbaXWMDc75OWX6uSBs1LqluTjO/R684lQpbnOhx8M06VC+N2mLmat4ngEWN9wzVUshEP5TJJ8ZDWVEiVjB32BzeXNwCIE4UcQ==",
+    "Hash method": "sha3_224",
+    "Signature": "V1/m0YugBdnCNPICdvSrHEYSYwxDKteCjcZcvbIQthstYXiZIbQ5rXaMD3CFOD7J2FvHQRI9mcY65m5Xo7xbJ46aA3wt+2Kd4GW5kLAjxbxgJRJ5y+qi8YCN0SPRDo+ex+wUQ4kcSFx6WWr3FmKXbnEo8GysRnhK47F364g4Vz2JBOpdUF6Fm/QKf0FXvWvLrjdRir5QwUkgsi7ZFaEr1KRYV45J9/sCSEgjY1/INYTiiY32InAJaZuBKit3FtbVTfBMiDtgaA61G43+9QQC94p8gwGQ4DUCTuUSKry+/HiNHTGkt2QBw2SfkW8WxIfPFdg2FViz7MUZVjzPP/Qbpg=="
+}
